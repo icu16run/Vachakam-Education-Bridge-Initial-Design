@@ -1,0 +1,8 @@
+{
+  "name": "Vachakam Education Bridge",
+  "description": "A high-impact civic initiative converting Malayalam community media into a bridge for educational continuity and cultural dignity for Indian migrant children in Chicago.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
